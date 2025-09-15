@@ -104,4 +104,4 @@ Nota: Recoger paquetes
 
 <hr>
 
-<p>✨ Hecho con creatividad en <a href="https://candeivid.com/pizarra/index.php">candeivid.com</a></p>
+<p>✨ Hecho con creatividad por Pepocero.  <a href="https://candeivid.com/pizarra/index.php">Acceder a la Pizarra</a></p>
